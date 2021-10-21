@@ -1,4 +1,4 @@
-package io.amkrosa.bugtracker;
+package io.amkrosa.bugtracker.bootloader;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
